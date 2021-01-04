@@ -3,6 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TabbedPageXamarin.App">
     <Application.Resources>
-
+        <!--  Icons  -->
+        <x:String x:Key="IconHome">&#xf015;</x:String>
+        <x:String x:Key="IconStatistics">&#xf681;</x:String>
+        <x:String x:Key="IconSettings">&#xf013;</x:String>
+        <x:String x:Key="IconMore">&#xf141;</x:String>
+        <x:String x:Key="IconGlobe">&#xf57d;</x:String>
     </Application.Resources>
 </Application>

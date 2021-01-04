@@ -1,14 +1,28 @@
-﻿<Properties StartupConfiguration="{5CE562CD-0EE6-4EB6-A6BC-FA342FBF4A38}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageXamarin/MainPage.xaml">
+﻿<Properties StartupConfiguration="{F7EF66A7-5BF3-4FD6-94E3-C733DBA071B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageXamarin/Views/TabPage3.cs">
     <Files>
-      <File FileName="TabbedPageXamarin/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="TabbedPageXamarin/MainPage.cs" Line="22" Column="31" />
+      <File FileName="TabbedPageXamarin/App.xaml" />
+      <File FileName="TabbedPageXamarin/ViewModel/TabPage1ViewModel.cs" />
+      <File FileName="TabbedPageXamarin/ViewModel/BaseViewModel.cs" />
+      <File FileName="TabbedPageXamarin/Views/TabPage2.cs" Line="35" Column="28" />
+      <File FileName="TabbedPageXamarin/ViewModel/TabPage3ViewModel.cs" />
+      <File FileName="TabbedPageXamarin/ViewModel/TabPage2ViewModel.cs" />
+      <File FileName="TabbedPageXamarin/App.xaml.cs" />
+      <File FileName="TabbedPageXamarin/Views/TabPage1.cs" Line="35" Column="28" />
+      <File FileName="TabbedPageXamarin/Views/TabPage3.cs" Line="35" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TabbedPageXamarin" expanded="True">
             <Node name="TabbedPageXamarin" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="Controls" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="TabPage3.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -22,6 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.382AAE9D-A466-4D89-A0B8-0009514A82FB" />
 </Properties>
