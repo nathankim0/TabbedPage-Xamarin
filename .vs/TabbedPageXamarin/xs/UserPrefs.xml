@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5CE562CD-0EE6-4EB6-A6BC-FA342FBF4A38}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageXamarin/MainPage.xaml">
+    <Files>
+      <File FileName="TabbedPageXamarin/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbedPageXamarin" expanded="True">
+            <Node name="TabbedPageXamarin" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageXamarin.iOS FirstBuild="True" />
+</Properties>
